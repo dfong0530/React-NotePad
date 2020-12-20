@@ -1,0 +1,51 @@
+
+*{
+    background-color: #f1f5f8;
+    filter:blur(0px);
+
+}
+
+body{
+
+    background:  #f1f5f8;
+    text-align:center;
+    margin:auto;
+    
+}
+
+.main{
+    background-color: #f1f5f8;
+}
+
+.textBox{
+    margin-top: 100px;
+}
+
+.notes{
+    margin:auto;
+}
+
+h1{
+    text-align:center;
+    padding: 100px;
+}
+
+.btn{
+    width: 120px;
+}
+
+.AddReset{
+    display:flex;
+    justify-content:center;
+    margin-bottom: 100px;
+
+}
+ 
+.AddReset .btn{
+    border-radius: 20px;
+}
+
+.delete{
+    margin-left: 208px;
+}
+
